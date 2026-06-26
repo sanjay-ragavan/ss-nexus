@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" stroke="#5b8cff" stroke-width="1">
+    <path d="M60,60 C40,40 40,10 60,0 C80,10 80,40 60,60 Z"/>
+    <path d="M60,60 C80,40 110,40 120,60 C110,80 80,80 60,60 Z"/>
+    <path d="M60,60 C80,80 80,110 60,120 C40,110 40,80 60,60 Z"/>
+    <path d="M60,60 C40,80 10,80 0,60 C10,40 40,40 60,60 Z"/>
+  </g>
+  <g fill="#5b8cff">
+    <circle cx="0" cy="0" r="1.6"/>
+    <circle cx="120" cy="0" r="1.6"/>
+    <circle cx="0" cy="120" r="1.6"/>
+    <circle cx="120" cy="120" r="1.6"/>
+    <circle cx="60" cy="60" r="1.6"/>
+    <circle cx="60" cy="0" r="1.6"/>
+    <circle cx="120" cy="60" r="1.6"/>
+    <circle cx="60" cy="120" r="1.6"/>
+    <circle cx="0" cy="60" r="1.6"/>
+  </g>
+</svg>
